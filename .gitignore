@@ -1,0 +1,2 @@
+# ignora todos os diretórios do node_modules e todos que eu especificar 
+node_modules/
